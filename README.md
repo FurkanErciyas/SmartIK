@@ -8,7 +8,7 @@ Smartik was completed by a 4-person scrum team using Microsoft Azure Devops. Thi
 
 - Login Page
 
-![1_Login_Page](https://github.com/FurkanErciyas/SmartIK/assets/98383049/f4600875-bc10-4c21-885f-0dd068c03f11)
+![1_Login_Page](https://github.com/FurkanErciyas/SmartIK/assets/98383049/20b9236a-eed2-4ed4-8fd0-1820e18210c8)
 
 ## Admin Account
 
